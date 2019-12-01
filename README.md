@@ -10,3 +10,4 @@
 4. Домашнее задание № 4: **Homework4.ipynb**
 5. Домашнее задание № 5: **Homework5.ipynb**
 6. Домашнее задание № 6: **Homework6.ipynb**
+7. Домашнее задание № 7: **Homework7.ipynb**
